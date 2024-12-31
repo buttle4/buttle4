@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @buttle4
+- 👀 I’m interested in cybersecurity, ethical hacking, and vulnerability research.
+- 🌱 I’m currently learning  reverse engineering, malware analysis, and penetration testing.
+- 💞️ I’m looking to collaborate on security tools, bug bounty programs, and threat detection systems.
